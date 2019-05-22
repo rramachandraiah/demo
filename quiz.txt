@@ -1,2 +1,4 @@
 hello world
-no more Clear Case
+Git is easy
+and Git is fun
+
